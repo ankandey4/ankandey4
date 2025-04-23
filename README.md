@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ankandey4
 - 👀 I’m interested in AI, ML, EdTech, and Wab Development
-- 🌱 I’m currently learning in Bangladesh Digital University 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning Educational Technology and Engineering in Bangladesh Digital University 
+- 💞️ I’m looking to collaborate on EdTech and Web Devlopment
+- 📫 ankanchandradey@hotmail.com
+- 😄 Pronouns:He/him
 - ⚡ Fun fact: ...
 
 <!---
